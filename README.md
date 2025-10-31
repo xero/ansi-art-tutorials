@@ -1,4 +1,4 @@
-# ▓▒░ ANSI Art Tutorials
+#  ▓▒░ ANSI Art Tutorials
 
 > [!TIP]
 > Step one to learning any skill is always: _"**Study The Masters**"_
@@ -9,7 +9,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-<details><summary> &nbsp; <h3>Ansi Academy</h3>
+<details><summary> &nbsp; <h3>▓▒░ &nbsp;&nbsp; Ansi Academy</h3>
 
 > [![Ansi Academy](img/preview/LDA-ANSIACADEMY.ANS.png)](img/LDA-ANSIACADEMY.ANS.png)
 > - **Title:** [Ansi Academy](https://16colo.rs/pack/mist0221/LDA-ANSIACADEMY.ANS)
@@ -25,7 +25,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-<details><summary> &nbsp; <h3>Basic Colors</h3>
+<details><summary> &nbsp; <h3>▓▒░ &nbsp;&nbsp; Basic Colors</h3>
 
 > [![Basic Colors](img/preview/ANSI-TUT.002.png)](img/ANSI-TUT.002.png)
 > - **Title:** [Basic Colors](https://16colo.rs/pack/newbie01/ANSI-TUT.002)
@@ -41,7 +41,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-<details><summary> &nbsp; <h3>Color Science</h3>
+<details><summary> &nbsp; <h3>▓▒░ &nbsp;&nbsp; Color Science</h3>
 
 > [![color science tutorial](img/preview/AVE-TUTP.ANS.png)](img/AVE-TUTP.ANS.png)
 > - **Title:** [color science tutorial](https://16colo.rs/pack/bmbook16/AVE-TUTP.ANS)
@@ -57,7 +57,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-<details><summary> &nbsp; <h3>Curving and Shading</h3>
+<details><summary> &nbsp; <h3>▓▒░ &nbsp;&nbsp; Curving and Shading</h3>
 
 > [![Curving and Shading](img/preview/ANSI-TUT.006.png)](img/ANSI-TUT.006.png)
 > - **Title:** [Curving and Shading](https://16colo.rs/pack/newbie01/ANSI-TUT.006)
@@ -73,7 +73,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-<details><summary> &nbsp; <h3>Picture Shading</h3>
+<details><summary> &nbsp; <h3>▓▒░ &nbsp;&nbsp; Picture Shading</h3>
 
 > [![Picture Shading](img/preview/ANSI-TUT.013.png)](img/ANSI-TUT.013.png)
 > - **Title:** [Picture Shading](https://16colo.rs/pack/newbie01/ANSI-TUT.013)
@@ -89,7 +89,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-<details><summary> &nbsp; <h3>Advanced Picture Tutorial</h3>
+<details><summary> &nbsp; <h3>▓▒░ &nbsp;&nbsp; Advanced Picture Tutorial</h3>
 
 > [![Advanced Picture Tutorial](img/preview/ANSI-TUT.014.png)](img/ANSI-TUT.014.png)
 > - **Title:** [Advanced Picture Tutorial](https://16colo.rs/pack/newbie01/ANSI-TUT.014)
@@ -105,7 +105,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-<details><summary> &nbsp; <h3>Jazz's Font Drawing part 1</h3>
+<details><summary> &nbsp; <h3>▓▒░ &nbsp;&nbsp; Jazz's Font Drawing part 1</h3>
 
 > [![Font Drawing part 1](img/preview/ANSI-TUT.007.png)](img/ANSI-TUT.007.png)
 > - **Title:** [Font Drawing part 1](https://16colo.rs/pack/newbie01/ANSI-TUT.007)
@@ -121,7 +121,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-<details><summary> &nbsp; <h3>Jazz's Font Drawing part 2</h3>
+<details><summary> &nbsp; <h3>▓▒░ &nbsp;&nbsp; Jazz's Font Drawing part 2</h3>
 
 > [![Font Drawing part 2](img/preview/ANSI-TUT.008.png)](img/ANSI-TUT.008.png)
 > - **Title:** [Font Drawing part 2](https://16colo.rs/pack/newbie01/ANSI-TUT.008)
@@ -137,7 +137,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-<details><summary> &nbsp; <h3>How to Draw like zeroVision</h3>
+<details><summary> &nbsp; <h3>▓▒░ &nbsp;&nbsp; How to Draw like zeroVision</h3>
 
 > [![how to draw like zeroVision](img/preview/zv-tutorial.ans.png)](img/zv-tutorial.ans.png)
 > - **Title:** [how to draw like zeroVision](https://16colo.rs/pack/blocktronics_resvolution/zv-tutorial.ans)
@@ -153,7 +153,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-<details><summary> &nbsp; <h3>enz0's Flying Eagle Tutorial</h3>
+<details><summary> &nbsp; <h3>▓▒░ &nbsp;&nbsp; enz0's Flying Eagle Tutorial</h3>
 
 > [![flying eagle tutorial](img/preview/zO-flyingEagleTutorial.ANS.png)](img/zO-flyingEagleTutorial.ANS.png)
 > - **Title:** [flying eagle tutorial](https://16colo.rs/pack/blocktronics_acid_trip/zO-flyingEagleTutorial.ANS)
@@ -169,7 +169,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-<details><summary> &nbsp; <h3>Female character drawing</h3>
+<details><summary> &nbsp; <h3>▓▒░ &nbsp;&nbsp; Female character drawing</h3>
 
 > [![Female character drawing](img/preview/zO-TheDefinitiveChickDrawingTutorial.ans.png)](img/zO-TheDefinitiveChickDrawingTutorial.ans.png)
 > - **Title:** [Female character drawing](https://16colo.rs/pack/blocktronics_blockalypse/zO-TheDefinitiveChickDrawingTutorial.ans)
@@ -185,7 +185,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-<details><summary> &nbsp; <h3>zeroVision's Font Tutorial</h3>
+<details><summary> &nbsp; <h3>▓▒░ &nbsp;&nbsp; zeroVision's Font Tutorial</h3>
 
 > [![zeroVision's font tutorial](img/preview/zv-fonthow2.ans.png)](img/zv-fonthow2.ans.png)
 > - **Title:** [zeroVision's font tutorial](https://16colo.rs/pack/blocktronics_codename_chris_wirth/zv-fonthow2.ans)
@@ -201,7 +201,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-<details><summary> &nbsp; <h3>Ansi Tutorial</h3>
+<details><summary> &nbsp; <h3>▓▒░ &nbsp;&nbsp; Ansi Tutorial</h3>
 
 > [![Ansi Tutorial](img/preview/ANSINUL.ANS.png)](img/ANSINUL.ANS.png)
 > - **Title:** [Ansi Tutorial](https://16colo.rs/pack/nph-06/ANSINUL.ANS)
@@ -217,7 +217,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-<details><summary> &nbsp; <h3>Hulk Face Tutorial</h3>
+<details><summary> &nbsp; <h3>▓▒░ &nbsp;&nbsp; Hulk Face Tutorial</h3>
 
 > [![Hulk Face Tutorial](img/preview/MISC-005.ANS.png)](img/MISC-005.ANS.png)
 > - **Title:** [Hulk Face Tutorial](https://16colo.rs/pack/fever1yr/MISC-005.ANS)
@@ -233,7 +233,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-<details><summary> &nbsp; <h3>Shading Techniques</h3>
+<details><summary> &nbsp; <h3>▓▒░ &nbsp;&nbsp; Shading Techniques</h3>
 
 > [![Shading technique](img/preview/ANSI-TUT.005.png)](img/ANSI-TUT.005.png)
 > - **Title:** [Shading technique](https://16colo.rs/pack/newbie01/ANSI-TUT.005)
@@ -249,7 +249,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-<details><summary> &nbsp; <h3>rorshack's wERiD fONt Tutorial</h3>
+<details><summary> &nbsp; <h3>▓▒░ &nbsp;&nbsp; rorshack's wERiD fONt Tutorial</h3>
 
 > [![rorshack's werid font tutorial](img/preview/RS-TURT1.ANS.png)](img/RS-TURT1.ANS.png)
 > - **Title:** [rorshack's werid font tutorial](https://16colo.rs/pack/mdn-9709/RS-TURT1.ANS)
@@ -265,7 +265,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-<details><summary> &nbsp; <h3>Draw Fonts the Gunthar Way</h3>
+<details><summary> &nbsp; <h3>▓▒░ &nbsp;&nbsp; Draw Fonts the Gunthar Way</h3>
 
 > [![draw font the gunthar way](img/preview/GUN-TUT2.ANS.png)](img/GUN-TUT2.ANS.png)
 > - **Title:** [draw fonts the gunthar way](https://16colo.rs/pack/fire0397/GUN-TUT2.ANS)
@@ -281,7 +281,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-<details><summary> &nbsp; <h3>Flame's Font Tutorial</h3>
+<details><summary> &nbsp; <h3>▓▒░ &nbsp;&nbsp; Flame's Font Tutorial</h3>
 
 > [![flame's font tutorial](img/preview/FL-TUT1.ANS.png)](img/FL-TUT1.ANS.png)
 > - **Title:** [flame's font tutorial](https://16colo.rs/pack/hmd-0596/FL-TUT%231.ANS)
@@ -297,7 +297,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-<details><summary> &nbsp; <h3>How to Draw Like Halaster</h3>
+<details><summary> &nbsp; <h3>▓▒░ &nbsp;&nbsp; How to Draw Like Halaster</h3>
 
 > [![how to draw like halaster](img/preview/HAL-H2P2.ANS.png)](img/HAL-H2P2.ANS.png)
 > - **Title:** [how to draw like halaster](https://16colo.rs/pack/fire0896/HAL-H2P2.ANS)
@@ -313,7 +313,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-<details><summary> &nbsp; <h3>The "Halshade" Shading Technique</h3>
+<details><summary> &nbsp; <h3>▓▒░ &nbsp;&nbsp; The "Halshade" Shading Technique</h3>
 
 > [![the Halshade shading technique](img/preview/ANSI-TUT.004.png)](img/ANSI-TUT.004.png)
 > - **Title:** [the Halshade shading technique](https://16colo.rs/pack/newbie01/ANSI-TUT.004)
@@ -329,7 +329,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-<details><summary> &nbsp; <h3>14 Steps to Scene Domination: Part 1</h3>
+<details><summary> &nbsp; <h3>▓▒░ &nbsp;&nbsp; 14 Steps to Scene Domination: Part 1</h3>
 
 > [![14 steps to scene domination part 1](img/preview/PART_1.ANS.png)](img/PART_1.ANS.png)
 > - **Title:** [14 steps to scene domination](https://16colo.rs/pack/14/%28PART_1%29.ANS)
@@ -345,7 +345,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-<details><summary> &nbsp; <h3>14 Steps to Scene Domination: Part 2</h3>
+<details><summary> &nbsp; <h3>▓▒░ &nbsp;&nbsp; 14 Steps to Scene Domination: Part 2</h3>
 
 > [![14 steps to scene domination part 2](img/preview/PART_2.ANS.png)](img/PART_2.ANS.png)
 > - **Title:** [14 steps to scene domination part 2](https://16colo.rs/pack/14/%28PART_2%29.ANS)
@@ -361,7 +361,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-<details><summary> &nbsp; <h3>phiber optic</h3>
+<details><summary> &nbsp; <h3>▓▒░ &nbsp;&nbsp; phiber optic</h3>
 
 > [![phiber optic](img/preview/SHA-TUT1.ANS.png)](img/SHA-TUT1.ANS.png)
 > - **Title:** [phiber optic](https://16colo.rs/pack/srg2vos/SHA-TUT1.ANS)
@@ -377,7 +377,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-# ▓▒░ pLS m0aR iNSPo!
+# pLS m0aR iNSPo!
 
 Looking for more inspiration? These sites are treasure troves of text-mode art history, preserving the entire legacy of the text-mode art scene:
 
@@ -390,7 +390,7 @@ Explore these collections to learn from the legends, refine your techniques, and
 
 ---
 
-# ▓▒░ License
+# License
 
 This file was created by xero ([x0^67^aMi5H^iMP!](https://16colo.rs/artist/xero)) for the [teXt0wnz](https://github.com/xero/text0wnz) editor
 
