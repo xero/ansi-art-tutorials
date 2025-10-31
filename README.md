@@ -1,4 +1,4 @@
-# ANSI Art Tutorials
+# ▓▒░ ANSI Art Tutorials
 
 > [!TIP]
 > Step one to learning any skill is always: _"**Study The Masters**"_
@@ -377,7 +377,7 @@ Each entry showcases unique techniques, styles, and the vision of a talented art
 
 ---
 
-# pLS m0aR iNSPo!
+# ▓▒░ pLS m0aR iNSPo!
 
 Looking for more inspiration? These sites are treasure troves of text-mode art history, preserving the entire legacy of the text-mode art scene:
 
@@ -390,8 +390,8 @@ Explore these collections to learn from the legends, refine your techniques, and
 
 ---
 
-# License
+# ▓▒░ License
 
 This file was created by xero ([x0^67^aMi5H^iMP!](https://16colo.rs/artist/xero)) for the [teXt0wnz](https://github.com/xero/text0wnz) editor
 
-it's shares the project's MIT licensing.
+So it seems fitting this shares the project's MIT licensing.
