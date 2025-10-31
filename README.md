@@ -388,10 +388,8 @@ Looking for more inspiration? These sites are treasure troves of text-mode art h
 
 Explore these collections to learn from the legends, refine your techniques, and unleash your creativity!
 
----
+<h1>License <img src=https://raw.githubusercontent.com/xero/text0wnz/main/src/img/manifest/web-app-manifest-192x192.png width=150 align="right"></h1>
 
-# License
-
-This file was created by xero ([x0^67^aMi5H^iMP!](https://16colo.rs/artist/xero)) for the [teXt0wnz](https://github.com/xero/text0wnz) editor
+This file was created by xero ([x0^67^aMi5H^iMP!](https://16colo.rs/artist/xero)) for the [teXt0wnz](https://github.com/xero/text0wnz) editor,
 
 So it seems fitting this shares the project's MIT licensing.
