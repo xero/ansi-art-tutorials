@@ -5,7 +5,7 @@
 
 These are hand-collected works spanning decades of the scene.
 
-Each entry showcases unique techniques, styles, and the vision of talented artists.
+Each entry showcases unique techniques, styles, and the vision of a talented artist.
 
 ---
 
@@ -153,12 +153,12 @@ Each entry showcases unique techniques, styles, and the vision of talented artis
 
 ---
 
-<details><summary> &nbsp; <h3>enzo's Flying Eagle Tutorial</h3>
+<details><summary> &nbsp; <h3>enz0's Flying Eagle Tutorial</h3>
 
 > [![flying eagle tutorial](img/preview/zO-flyingEagleTutorial.ANS.png)](img/preview/zO-flyingEagleTutorial.ANS.png)
 > - **Title:** [flying eagle tutorial](https://16colo.rs/pack/blocktronics_acid_trip/zO-flyingEagleTutorial.ANS)
 > - **Released:** 2013 in [blocktronics_acid_trip](https://16colo.rs/pack/blocktronics_acid_trip2)
-> - **Artist:** [enzo](https://16colo.rs/artist/enzo) of [blocktronics](https://16colo.rs/group/blocktronics)
+> - **Artist:** [enz0](https://16colo.rs/artist/enzo) of [blocktronics](https://16colo.rs/group/blocktronics)
 > - **↓ [download](https://raw.githubusercontent.com/xero/ansi-tutorials/refs/heads/main/ansi/zO-flyingEagleTutorial.ANS)**
 
 </summary>
@@ -387,3 +387,7 @@ Looking for more inspiration? These sites are treasure troves of text-mode art h
 - [ArtScene Textfiles](http://artscene.textfiles.com/ansi/scene/) — Historical archives and classic tools for ANSI art.
 
 Explore these collections to learn from the legends, refine your techniques, and unleash your creativity!
+
+---
+
+This file was created by xero ([x0^67^aMi5H^iMP!](https://16colo.rs/artist/xero)) for the [teXt0wnz](https://github.com/xero/text0wnz) editor, so it's shares the project's MIT licensing.
